@@ -9,3 +9,13 @@ D:\GitHub\source\repos\17.01.2023\WeeklyPlan\WeekPlan\obj\Debug\WeeklyPlan.cspro
 D:\GitHub\source\repos\17.01.2023\WeeklyPlan\WeekPlan\obj\Debug\WeeklyPlan.csproj.CoreCompileInputs.cache
 D:\GitHub\source\repos\17.01.2023\WeeklyPlan\WeekPlan\obj\Debug\WeekPlan.exe
 D:\GitHub\source\repos\17.01.2023\WeeklyPlan\WeekPlan\obj\Debug\WeekPlan.pdb
+D:\GitHub\WeeklyPlan\WeekPlan\bin\Debug\WeekPlan.exe.config
+D:\GitHub\WeeklyPlan\WeekPlan\bin\Debug\WeekPlan.exe
+D:\GitHub\WeeklyPlan\WeekPlan\bin\Debug\WeekPlan.pdb
+D:\GitHub\WeeklyPlan\WeekPlan\obj\Debug\WeeklyPlan.csproj.AssemblyReference.cache
+D:\GitHub\WeeklyPlan\WeekPlan\obj\Debug\WeekPlan.Form1.resources
+D:\GitHub\WeeklyPlan\WeekPlan\obj\Debug\WeekPlan.Properties.Resources.resources
+D:\GitHub\WeeklyPlan\WeekPlan\obj\Debug\WeeklyPlan.csproj.GenerateResource.cache
+D:\GitHub\WeeklyPlan\WeekPlan\obj\Debug\WeeklyPlan.csproj.CoreCompileInputs.cache
+D:\GitHub\WeeklyPlan\WeekPlan\obj\Debug\WeekPlan.exe
+D:\GitHub\WeeklyPlan\WeekPlan\obj\Debug\WeekPlan.pdb
